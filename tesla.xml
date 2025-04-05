@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>jonndevops Releases Nexus Repository</name>
 	      <url>http://13.61.190.19:8081/repository/MWA-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>jonndevops Snapshot Nexus Repository </name>
 	      <url>http://13.61.190.19:8081/repository/MWA-snapshot/</url>
 	    </snapshotRepository>
 	    
